@@ -1,4 +1,3 @@
-
 p,f,y,n,f,y,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,d
 p,f,s,e,f,y,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,d
 p,f,s,e,f,f,f,c,n,b,t,?,s,k,w,p,p,w,o,e,w,v,d
